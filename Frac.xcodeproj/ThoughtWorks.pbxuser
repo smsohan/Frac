@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = x86_64;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D6F70809134E4DF9004526BA /* Frac */;
+		activeTarget = D6C1978813534E8500D3D792 /* Test */;
+		addToTargets = (
+			D6C198191353567600D3D792 /* Frac.Framework */,
+		);
+		codeSenseManager = D6F70814134E4E0E004526BA /* Code sense */;
+		executables = (
+			D6F70809134E4DF9004526BA /* Frac */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Target_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324230470;
+			PBXWorkspaceStateSaveDate = 324230470;
+		};
+		perUserProjectItems = {
+			D6C197CD1353543300D3D792 = D6C197CD1353543300D3D792 /* PlistBookmark */;
+			D6C19810135355F800D3D792 = D6C19810135355F800D3D792 /* PBXTextBookmark */;
+			D6C1983D135357BA00D3D792 = D6C1983D135357BA00D3D792 /* PBXTextBookmark */;
+			D6C1983F135357BA00D3D792 = D6C1983F135357BA00D3D792 /* PBXTextBookmark */;
+			D6C19840135357BA00D3D792 = D6C19840135357BA00D3D792 /* PBXTextBookmark */;
+			D6C19854135359BF00D3D792 = D6C19854135359BF00D3D792 /* PBXTextBookmark */;
+			D6C19855135359BF00D3D792 = D6C19855135359BF00D3D792 /* PBXTextBookmark */;
+			D6C1986913535D4100D3D792 = D6C1986913535D4100D3D792 /* PBXTextBookmark */;
+			D6F7084F134E4FCD004526BA = D6F7084F134E4FCD004526BA /* PBXTextBookmark */;
+			D6F708D7134E53CF004526BA = D6F708D7134E53CF004526BA /* PBXTextBookmark */;
+		};
+		sourceControlManager = D6F70813134E4E0E004526BA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
+			sepNavSelRange = "{100, 0}";
+			sepNavVisRange = "{0, 104}";
+			sepNavWindowFrame = "{{64, 84}, {1368, 794}}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* Frac */ = {
+		activeExec = 0;
+		executables = (
+			D6F70809134E4DF9004526BA /* Frac */,
+		);
+	};
+	C6A0FF2C0290799A04C91782 /* Frac.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 988}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 890}";
+		};
+	};
+	D6C1978813534E8500D3D792 /* Test */ = {
+		activeExec = 0;
+	};
+	D6C197A01353514200D3D792 /* FracTests.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 124}";
+		};
+	};
+	D6C197A11353514200D3D792 /* FracTests.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 364}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{41, 217}";
+		};
+	};
+	D6C197CD1353543300D3D792 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = D6C1978A13534E8500D3D792 /* Test-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ThoughtWorks/XCode/Frac/Test-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D6C19810135355F800D3D792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6A0FF2C0290799A04C91782 /* Frac.1 */;
+		name = "Frac.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 0;
+	};
+	D6C198191353567600D3D792 /* Frac.Framework */ = {
+		activeExec = 0;
+	};
+	D6C198201353569B00D3D792 /* MyFrac.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{3, 255}";
+		};
+	};
+	D6C198211353569B00D3D792 /* MyFrac.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 299}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{28, 236}";
+		};
+	};
+	D6C1983D135357BA00D3D792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D6C197A01353514200D3D792 /* FracTests.h */;
+		name = "FracTests.h: 7";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 124;
+		vrLoc = 0;
+	};
+	D6C1983F135357BA00D3D792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D6C198201353569B00D3D792 /* MyFrac.h */;
+		name = "MyFrac.h: 18";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 3;
+	};
+	D6C19840135357BA00D3D792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D6C198211353569B00D3D792 /* MyFrac.m */;
+		name = "MyFrac.m: 18";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 28;
+	};
+	D6C19854135359BF00D3D792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D6C197A11353514200D3D792 /* FracTests.m */;
+		name = "FracTests.m: 23";
+		rLen = 0;
+		rLoc = 336;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 136;
+	};
+	D6C19855135359BF00D3D792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 83;
+		rType = 0;
+		vrLen = 104;
+		vrLoc = 0;
+	};
+	D6C1986913535D4100D3D792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 104;
+		vrLoc = 0;
+	};
+	D6F70809134E4DF9004526BA /* Frac */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Frac;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D6F70813134E4E0E004526BA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D6F70814134E4E0E004526BA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D6F7084F134E4FCD004526BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D6F70850134E4FCD004526BA /* main.i */;
+		name = "main.i: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 999;
+		vrLoc = 0;
+	};
+	D6F70850134E4FCD004526BA /* main.i */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c.preprocessed;
+		name = main.i;
+		path = "/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Debug/Frac.build/Objects-normal/x86_64/main.i";
+		sourceTree = "<absolute>";
+	};
+	D6F70895134E51D0004526BA /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	D6F708D7134E53CF004526BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D6F70895134E51D0004526BA /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 189";
+		rLen = 0;
+		rLoc = 6624;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 6424;
+	};
+}

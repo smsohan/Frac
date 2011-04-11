@@ -1,0 +1,321 @@
+TFrac.Framework
+v7
+r0
+t324230212.346211
+cCheck dependencies
+cSymLink /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/Current A
+cSymLink /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Resources Versions/Current/Resources
+cSymLink /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Frac.Framework Versions/Current/Frac.Framework
+cProcessInfoPlistFile /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Resources/Info.plist Frac.Framework-Info.plist
+cProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gfamaodgyschiwamvddjujofobuc/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/MyFrac.o /Users/ThoughtWorks/XCode/Frac/MyFrac.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework normal x86_64
+cGenerateDSYMFile /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework.dSYM /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework
+cTouch /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D6596CF00000000000000EE
+t1298503375
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Users/ThoughtWorks/XCode/Frac/MyFrac.h
+c000000004DA31F370000000000000102
+t1302535991
+s258
+i<Cocoa/Cocoa.h>
+
+N/Users/ThoughtWorks/XCode/Frac/MyFrac.m
+c000000004DA31FEA0000000000000108
+t1302536170
+s264
+i"MyFrac.h"
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework
+t1302536875
+s8784
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework.LinkFileList
+c000000004DA322A7000000000000006A
+t1302536871
+s106
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/MyFrac.o
+t1302536875
+s5892
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework
+t1302536368
+s13068
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework.LinkFileList
+c000000004DA320AB0000000000000069
+t1302536363
+s105
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/MyFrac.o
+t1302536368
+s5848
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework
+t1302536875
+s9352
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework.LinkFileList
+c000000004DA322A7000000000000006C
+t1302536871
+s108
+
+N/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/MyFrac.o
+t1302536874
+s7436
+
+N/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework
+t1302537412
+s170
+
+N/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework.dSYM
+t1302537412
+s102
+
+N/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Frac.Framework
+t3
+s31
+
+N/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Resources
+t3
+s26
+
+N/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework
+t1302537412
+s9352
+
+N/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Resources/Info.plist
+t1302536871
+s677
+
+N/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/Current
+t3
+s1
+
+N/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-evrfcrapndgocnazhahijticrwtt/AppKit.h.gch
+t1302536368
+s52122448
+
+N/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-fwhnenuugolggzgvslqrwthgesgh/AppKit.h.gch
+t1302536874
+s54895664
+
+N/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gfamaodgyschiwamvddjujofobuc/AppKit.h.gch
+t1302536874
+s52249616
+
+NFrac.Framework-Info.plist
+c000000004DA31EF600000000000002BC
+t1302535926
+s700
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324230212#324230212#0(0"0(0#1#0"6074323736256136192#0"0#
+
+CCompileC build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/MyFrac.o /Users/ThoughtWorks/XCode/Frac/MyFrac.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324229674.848758
+e324229675.038236
+r1
+xCompileC
+xbuild/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/MyFrac.o
+x/Users/ThoughtWorks/XCode/Frac/MyFrac.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/ThoughtWorks/XCode/Frac/MyFrac.m324229674#324229675#0(0"0(0#0#39"/Users/ThoughtWorks/XCode/Frac/MyFrac.m4664405072#1397"    cd /Users/ThoughtWorks/XCode/Frac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-generated-files.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-own-target-headers.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-all-target-headers.hmap -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-project-headers.hmap -F/Users/ThoughtWorks/XCode/Frac/build/Release -I/Users/ThoughtWorks/XCode/Frac/build/Release/include -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources/i386 -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources -include /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-fwhnenuugolggzgvslqrwthgesgh/AppKit.h -c /Users/ThoughtWorks/XCode/Frac/MyFrac.m -o /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/MyFrac.o0#
+
+CCompileC build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/MyFrac.o /Users/ThoughtWorks/XCode/Frac/MyFrac.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s324229168.167614
+e324229168.406224
+r1
+xCompileC
+xbuild/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/MyFrac.o
+x/Users/ThoughtWorks/XCode/Frac/MyFrac.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/ThoughtWorks/XCode/Frac/MyFrac.m324229168#324229168#0(0"0(0#0#39"/Users/ThoughtWorks/XCode/Frac/MyFrac.m4383601712#1404"    cd /Users/ThoughtWorks/XCode/Frac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-generated-files.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-own-target-headers.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-all-target-headers.hmap -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-project-headers.hmap -F/Users/ThoughtWorks/XCode/Frac/build/Release -I/Users/ThoughtWorks/XCode/Frac/build/Release/include -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources/ppc -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources -include /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-evrfcrapndgocnazhahijticrwtt/AppKit.h -c /Users/ThoughtWorks/XCode/Frac/MyFrac.m -o /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/MyFrac.o0#
+
+CCompileC build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/MyFrac.o /Users/ThoughtWorks/XCode/Frac/MyFrac.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324229674.849568
+e324229675.012030
+r1
+xCompileC
+xbuild/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/MyFrac.o
+x/Users/ThoughtWorks/XCode/Frac/MyFrac.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/ThoughtWorks/XCode/Frac/MyFrac.m324229674#324229675#0(0"0(0#0#39"/Users/ThoughtWorks/XCode/Frac/MyFrac.m4664470272#1403"    cd /Users/ThoughtWorks/XCode/Frac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-generated-files.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-own-target-headers.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-all-target-headers.hmap -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-project-headers.hmap -F/Users/ThoughtWorks/XCode/Frac/build/Release -I/Users/ThoughtWorks/XCode/Frac/build/Release/include -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources/x86_64 -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources -include /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gfamaodgyschiwamvddjujofobuc/AppKit.h -c /Users/ThoughtWorks/XCode/Frac/MyFrac.m -o /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/MyFrac.o0#
+
+CCreateUniversalBinary /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework normal "i386 x86_64"
+s324229675.101856
+e324229675.104278
+r1
+xCreateUniversalBinary
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework
+xnormal
+xi386 x86_64
+lSLF07#2@107"CreateUniversalBinary build/Release/Frac.Framework.framework/Versions/A/Frac.Framework normal "i386 x86_64"324229675#324229675#0(0"0(0#0#42"/Users/ThoughtWorks/XCode/Frac/i386 x86_644382869440#394"    cd /Users/ThoughtWorks/XCode/Frac    /usr/bin/lipo -create /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework -output /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework0#
+
+CCreateUniversalBinary /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework normal "x86_64 i386 ppc"
+s324229168.713375
+e324229168.716900
+r1
+xCreateUniversalBinary
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@111"CreateUniversalBinary build/Release/Frac.Framework.framework/Versions/A/Frac.Framework normal "x86_64 i386 ppc"324229168#324229168#0(0"0(0#0#46"/Users/ThoughtWorks/XCode/Frac/x86_64 i386 ppc4383424512#505"    cd /Users/ThoughtWorks/XCode/Frac    /usr/bin/lipo -create /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework -output /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework0#
+
+CGenerateDSYMFile /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework.dSYM /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework
+s324230212.332396
+e324230212.343794
+r1
+xGenerateDSYMFile
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework.dSYM
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework
+lSLF07#2@125"GenerateDSYMFile build/Release/Frac.Framework.framework.dSYM build/Release/Frac.Framework.framework/Versions/A/Frac.Framework324230212#324230212#0(0"0(0#0#95"/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework4308953248#244"    cd /Users/ThoughtWorks/XCode/Frac    /Developer/usr/bin/dsymutil /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework -o /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework.dSYM0#
+
+CLd /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework normal i386
+s324229675.038442
+e324229675.101475
+r1
+xLd
+x/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework
+xnormal
+xi386
+lSLF07#2@116"Link /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework324229675#324229675#0(0"0(0#0#0"4378175008#747"    cd /Users/ThoughtWorks/XCode/Frac    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/ThoughtWorks/XCode/Frac/build/Release -F/Users/ThoughtWorks/XCode/Frac/build/Release -filelist /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework.LinkFileList -install_name /Users/ThoughtWorks/Library/Frameworks/Frac.Framework.framework/Versions/A/Frac.Framework -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -single_module -compatibility_version 1 -current_version 1 -o /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/i386/Frac.Framework0#
+
+CLd /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework normal ppc
+s324229168.406402
+e324229168.713250
+r1
+xLd
+x/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework
+xnormal
+xppc
+lSLF07#2@115"Link /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework324229168#324229168#0(0"0(0#0#0"4383489680#744"    cd /Users/ThoughtWorks/XCode/Frac    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/ThoughtWorks/XCode/Frac/build/Release -F/Users/ThoughtWorks/XCode/Frac/build/Release -filelist /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework.LinkFileList -install_name /Users/ThoughtWorks/Library/Frameworks/Frac.Framework.framework/Versions/A/Frac.Framework -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -single_module -compatibility_version 1 -current_version 1 -o /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/ppc/Frac.Framework0#
+
+CLd /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework normal x86_64
+s324229675.012334
+e324229675.101785
+r1
+xLd
+x/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework
+xnormal
+xx86_64
+lSLF07#2@118"Link /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework324229675#324229675#0(0"0(0#0#0"4378172320#753"    cd /Users/ThoughtWorks/XCode/Frac    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/ThoughtWorks/XCode/Frac/build/Release -F/Users/ThoughtWorks/XCode/Frac/build/Release -filelist /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework.LinkFileList -install_name /Users/ThoughtWorks/Library/Frameworks/Frac.Framework.framework/Versions/A/Frac.Framework -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -single_module -compatibility_version 1 -current_version 1 -o /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework0#
+
+CLd /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework normal x86_64
+s324230212.292154
+e324230212.331999
+r1
+xLd
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework324230212#324230212#0(0"0(0#0#0"28429440805568624#735"    cd /Users/ThoughtWorks/XCode/Frac    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/ThoughtWorks/XCode/Frac/build/Release -F/Users/ThoughtWorks/XCode/Frac/build/Release -filelist /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Objects-normal/x86_64/Frac.Framework.LinkFileList -install_name /Users/ThoughtWorks/Library/Frameworks/Frac.Framework.framework/Versions/A/Frac.Framework -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -single_module -compatibility_version 1 -current_version 1 -o /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Frac.Framework0#
+
+CProcessInfoPlistFile /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Resources/Info.plist Frac.Framework-Info.plist
+s324229671.567686
+e324229671.570595
+r1
+xProcessInfoPlistFile
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Resources/Info.plist
+xFrac.Framework-Info.plist
+lSLF07#2@33"Process Frac.Framework-Info.plist324229671#324229671#0(0"0(0#0#56"/Users/ThoughtWorks/XCode/Frac/Frac.Framework-Info.plist4664377664#236"    cd /Users/ThoughtWorks/XCode/Frac    builtin-infoPlistUtility Frac.Framework-Info.plist -expandbuildsettings -platform macosx -o /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/A/Resources/Info.plist0#
+
+CProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-evrfcrapndgocnazhahijticrwtt/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal ppc objective-c com.apple.compilers.gcc.4_2
+s324229163.868012
+e324229168.166059
+r1
+xProcessPCH
+x/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-evrfcrapndgocnazhahijticrwtt/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h324229163#324229168#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h4382300352#1352"    cd /Users/ThoughtWorks/XCode/Frac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-generated-files.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-own-target-headers.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-all-target-headers.hmap -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-project-headers.hmap -F/Users/ThoughtWorks/XCode/Frac/build/Release -I/Users/ThoughtWorks/XCode/Frac/build/Release/include -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources/ppc -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-evrfcrapndgocnazhahijticrwtt/AppKit.h.gch0#
+
+CProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-fwhnenuugolggzgvslqrwthgesgh/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s324229671.570849
+e324229674.848645
+r1
+xProcessPCH
+x/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-fwhnenuugolggzgvslqrwthgesgh/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h324229671#324229674#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h4379181952#1344"    cd /Users/ThoughtWorks/XCode/Frac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-generated-files.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-own-target-headers.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-all-target-headers.hmap -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-project-headers.hmap -F/Users/ThoughtWorks/XCode/Frac/build/Release -I/Users/ThoughtWorks/XCode/Frac/build/Release/include -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources/i386 -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-fwhnenuugolggzgvslqrwthgesgh/AppKit.h.gch0#
+
+CProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gfamaodgyschiwamvddjujofobuc/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324229671.571747
+e324229674.667405
+r1
+xProcessPCH
+x/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gfamaodgyschiwamvddjujofobuc/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h324229671#324229674#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h4665483584#1348"    cd /Users/ThoughtWorks/XCode/Frac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-generated-files.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-own-target-headers.hmap -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-all-target-headers.hmap -iquote /Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/Frac.Framework-project-headers.hmap -F/Users/ThoughtWorks/XCode/Frac/build/Release -I/Users/ThoughtWorks/XCode/Frac/build/Release/include -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources/x86_64 -I/Users/ThoughtWorks/XCode/Frac/build/Frac.build/Release/Frac.Framework.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gfamaodgyschiwamvddjujofobuc/AppKit.h.gch0#
+
+CSymLink /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Frac.Framework Versions/Current/Frac.Framework
+s324229671.563305
+e324229671.567565
+r1
+xSymLink
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Frac.Framework
+xVersions/Current/Frac.Framework
+lSLF07#2@92"Process /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Frac.Framework324229671#324229671#0(0"0(0#0#0"4665247408#171"    cd /Users/ThoughtWorks/XCode/Frac    /bin/ln -sf Versions/Current/Frac.Framework /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Frac.Framework0#
+
+CSymLink /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Resources Versions/Current/Resources
+s324229671.562346
+e324229671.567372
+r1
+xSymLink
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@87"Process /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Resources324229671#324229671#0(0"0(0#0#0"4382903568#161"    cd /Users/ThoughtWorks/XCode/Frac    /bin/ln -sf Versions/Current/Resources /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Resources0#
+
+CSymLink /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/Current A
+s324229671.561125
+e324229671.566231
+r1
+xSymLink
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/Current
+xA
+lSLF07#2@94"Process /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/Current324229671#324229671#0(0"0(0#0#0"12948308497662064#143"    cd /Users/ThoughtWorks/XCode/Frac    /bin/ln -sf A /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework/Versions/Current0#
+
+CTouch /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework
+s324230212.343950
+e324230212.346150
+r1
+xTouch
+x/Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework
+lSLF07#2@75"Touch /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework324230212#324230212#0(0"0(0#0#0"4368835472#130"    cd /Users/ThoughtWorks/XCode/Frac    /usr/bin/touch -c /Users/ThoughtWorks/XCode/Frac/build/Release/Frac.Framework.framework0#
+

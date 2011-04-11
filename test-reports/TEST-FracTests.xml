@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="SM6631-MacBook-Pro.local" name="FracTests" tests="2" time="0.0" timestamp="Mon Apr 11 10:07:28 -0600 2011"><testcase classname='FracTests' name='testNumerator' time='0.0' />
+<testcase classname='FracTests' name='testNumeratorWith15' time='0.0' />
+</testsuite>
