@@ -26,7 +26,7 @@
 -(void)testNumeratorWith25{
 	[myFrac setNumerator:25];
 	
-	STAssertEquals(15, [myFrac getNumerator], @"");
+	STAssertEquals(25, [myFrac getNumerator], @"");
 }
 
 
