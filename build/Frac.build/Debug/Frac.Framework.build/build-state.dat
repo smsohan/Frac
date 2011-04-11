@@ -1,7 +1,7 @@
 TFrac.Framework
 v7
 r0
-t324234179.846164
+t324234877.695855
 cCheck dependencies
 cSymLink /Users/ThoughtWorks/XCode/Frac/build/Debug/Frac.Framework.framework/Versions/Current A
 cSymLink /Users/ThoughtWorks/XCode/Frac/build/Debug/Frac.Framework.framework/Resources Versions/Current/Resources
@@ -96,7 +96,7 @@ s700
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies324234179#324234179#0(0"0(0#1#0"8610032256#0"0#
+lSLF07#2@18"Check dependencies324234877#324234877#0(0"0(0#1#0"8616984736#0"0#
 
 CCompileC build/Frac.build/Debug/Frac.Framework.build/Objects-normal/ppc/MyFrac.o /Users/ThoughtWorks/XCode/Frac/MyFrac.m normal ppc objective-c com.apple.compilers.gcc.4_2
 s324229329.144377
