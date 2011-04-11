@@ -29,6 +29,7 @@
 	STAssertEquals(25, [myFrac getNumerator], @"");
 }
 
+
 -(void)testNumeratorWithDummy{
 	[myFrac setNumerator:25];
 	
